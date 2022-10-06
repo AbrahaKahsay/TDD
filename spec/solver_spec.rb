@@ -18,5 +18,11 @@ describe  Solver do
         end
     end
 
+    context 'check the second method (reverse)' do
+        it 'the method will return the revers of the string' do
+            expect(solver.reverse('hi')).to eq('ih')
+        end
+    end
+
 
 end
