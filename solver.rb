@@ -14,4 +14,9 @@ class Solver
             return result
         end
     end
+
+    def reverse(word)
+        word.reverse!
+    end
+
 end
