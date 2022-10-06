@@ -1,56 +1,25 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# TDD
 
-# Project Name
+> A project to write TDD tests
 
-> Description the project.
+## Built With :hammer_and_wrench:
 
+- **GitHub flow:** Correct use of Branches for deployment and features development.
+- **Linters Check:** Local and Pull Request check for errors, bugs and stylistic errors in code.
 
-## Built With
+## Authors :writing_hand: :busts_in_silhouette:
 
-- Major languages
-- Frameworks
-- Technologies used
+:man_technologist: **Alzubair Alqaraghuli** :writing_hand:
 
-## Live Demo (if available)
+- GitHub: [@Alzubair98](https://github.com/Alzubair98)
+- Twitter: [@FitZubair](https://twitter.com/FitZubair)
+- LinkedIn: [@Alzubair Alqaraghuli](https://www.linkedin.com/in/alzubair-alqaraghuli-272918233/)
 
-[Live Demo Link](https://livedemo.com)
+:man_technologist: **Abraha Kahsay** :writing_hand:
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AbrahaKahsay](https://github.com/AbrahaKahsay)
+- Twitter: [@abraha_ka](https://twitter.com/abraha_ka)
+- LinkedIn: [abraha-kahsay](https://www.linkedin.com/in/abraha-kahsay/)
 
 ## 🤝 Contributing
 
@@ -62,14 +31,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
